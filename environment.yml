@@ -3,6 +3,7 @@ channels:
   - conda-forge
 dependencies:
   - python=2.7
+  - libgdal=2.2.2
   - numpy=1.16.1  
   - pyproj=2.2.2  
   - gdal=2.2.2
