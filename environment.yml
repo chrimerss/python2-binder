@@ -4,11 +4,10 @@ channels:
   - default
 dependencies:
   - python=2.7
-  - libgdal
   - numpy=1.16.1  
   - pyproj
   - proj4
-  - gdal=2.2.2
+  - gdal=2.2.2 "libgdal=2.2.2"
   - psutil
   - toolz
   - matplotlib
