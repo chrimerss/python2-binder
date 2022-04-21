@@ -15,6 +15,7 @@ dependencies:
   - dill
   - pandas=0.24.2
   - geopandas=0.6.3
+  - fiona=1.8.13.post1
   - mpi4py=3.0.3
   - folium
   - Cython
