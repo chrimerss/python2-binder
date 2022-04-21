@@ -6,7 +6,7 @@ dependencies:
   - libgdal=2.2.2
   - numpy=1.16.1  
   - pyproj=2.2.2  
-  - proj4=4.9.3
+  - proj4=6.1.1
   - gdal=2.2.2
   - psutil
   - toolz
