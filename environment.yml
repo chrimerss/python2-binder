@@ -3,20 +3,20 @@ channels:
   - conda-forge
 dependencies:
   - python=2.7
-  - gdal
-  - numpy
+  - numpy=1.16.1  
+  - pyproj=2.2.2  
+  - gdal=2.2.3
   - psutil
   - toolz
   - matplotlib
   - dill
-  - pandas
-  - bokeh
-  - dask
+  - pandas=0.24.2
   - geopandas=0.6.3
-  - mpi4py
-  - fiona
+  - mpi4py=3.0.3
+  - fiona=1.8.13.post1
   - folium
   - Cython
   - netCDF4
   - scipy
   - affine
+
