@@ -12,7 +12,7 @@ dependencies:
   - pandas
   - bokeh
   - dask
-  - geopandas
+  - geopandas=0.6.3
   - mpi4py
   - fiona
   - folium
