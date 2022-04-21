@@ -4,22 +4,23 @@ channels:
   - default
 dependencies:
   - python=2.7
-  - numpy=1.16.1  
-  - pyproj
-  - proj4
-  - libgdal=2.2.2
-  - gdal=2.2.2
-  - psutil
-  - toolz
-  - matplotlib
-  - dill
+  - gdal
+  - geopandas
   - pandas=0.24.2
-  - geopandas=0.6.3
-  - fiona=1.8.13.post1
-  - mpi4py=3.0.3
-  - folium
-  - Cython
-  - netCDF4
-  - scipy
-  - affine
+  - pip:
+    - numpy=1.16.1  
+    - pyproj
+    - proj4
+    - libgdal=2.2.2
+    - gdal=2.2.2
+    - psutil
+    - toolz
+    - matplotlib
+    - fiona=1.8.13.post1
+    - mpi4py=3.0.3
+    - folium
+    - Cython
+    - netCDF4
+    - scipy
+    - affine
 
