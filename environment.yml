@@ -19,3 +19,4 @@ dependencies:
   - Cython
   - netCDF4
   - scipy
+  - affine
