@@ -1,0 +1,20 @@
+name: python2
+channels:
+  - conda-forge
+dependencies:
+  - gdal
+  - numpy
+  - psutil
+  - toolz
+  - matplotlib
+  - dill
+  - pandas
+  - bokeh
+  - dask
+  - geopandas
+  - mpi4py
+  - fiona
+  - folium
+  - Cython
+  - netCDF4
+  - scipy
