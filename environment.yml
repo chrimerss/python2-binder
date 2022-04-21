@@ -20,5 +20,3 @@ dependencies:
   - netCDF4
   - scipy
   - affine
-  - proj
-  - pyproj=2.2.2
